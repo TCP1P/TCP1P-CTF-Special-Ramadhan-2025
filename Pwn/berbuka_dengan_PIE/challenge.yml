@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "Berbuka Dengan PIE"
+author: "ilupii"
+description: |
+  Aku dan temanku bingung mau berbuka pake apa, tapi tiba tiba ada orang bagi bagi takjil kue pie
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{kue_pienyya_en4kk4nn_selamat_berbuka}"
+
+provide: "./dist"

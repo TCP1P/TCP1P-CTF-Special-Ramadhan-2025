@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "Ingfokan Lokasi Takjil"
+author: "Max The Computer Fox"
+description: |
+  Max dan teman teman nya sedang berencana untuk mencari takjil sebanyak mungkin
+  untuk entar dimakan bersama saat buka nanti, tetapi mereka harus cepat sebelum
+  takjil takjil yang di jual habis. Merekapun membuat platform untuk membagikan
+  lokasi lokasi takjil yang dapat mereka kunjungi secara privat, apakah anda dapat 
+  menemukan vulnerabilitas di platform mereka untuk mencari lokasi takjil favorit Max?
+
+  Connect: http://{{.host}}:11451
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{T4kj1lnya_K3mana_Ab4ngkuh}"
+
+provide: "./dist"
+
+scripts:
+    start: cd src && docker compose -p {{.slug}} up --build -d
+    stop: cd src && docker compose -p {{.slug}} down --volumes

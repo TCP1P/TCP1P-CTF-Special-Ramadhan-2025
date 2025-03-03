@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "Mencari PW"
+author: "b4r"
+description: |
+  Mas bisa bantu aku buat login? Aku lupa passwordnya :(
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADHAN{ini_adalah_password_hehe}"
+
+provide: "./dist"

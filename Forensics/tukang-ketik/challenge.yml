@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "tukang-ketik"
+author: "k.eii"
+description: |
+  ngetik sambil minum es teh manis selagi ngabuburit
+category: "Forensic"
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{easy_K3yb0ard_HID_us4Ge}"
+
+provide: "./dist"

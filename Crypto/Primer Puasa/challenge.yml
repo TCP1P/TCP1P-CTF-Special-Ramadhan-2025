@@ -1,0 +1,12 @@
+name: "Primer Puasa"
+author: "WanZKey"
+description: 
+  Gatau mau ngisi deskripsinya apa, intinya next!, 128!.
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{Puas4-g4s_Crypt0-C0y_bi4r_Pr1me!!!}"
+
+provide: "./dist"

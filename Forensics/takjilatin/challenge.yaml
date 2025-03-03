@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "takjil-atin"
+author: "b4r"
+description: |
+  aku punya teman, dia jago ctf, terutama forensic, mungkin karna jago, dia memiliki nama panggilan yang aneh di komunitas ctf nya, panggilan nya yaitu "mata diam", karna dia diam diam bisa solve semua chall! 🥶🥶
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{_m4grh1b_=_l4m4_}"
+
+provide: "./dist"

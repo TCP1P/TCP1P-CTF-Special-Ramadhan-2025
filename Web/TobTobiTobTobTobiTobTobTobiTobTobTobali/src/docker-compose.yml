@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  challenge:
+    build: .
+    container_name: tobtobitobtobtobitobtobtobitobtobtobali
+    ports:
+      - "8888:5000"
+    restart: unless-stopped
