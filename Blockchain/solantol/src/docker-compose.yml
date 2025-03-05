@@ -9,8 +9,10 @@ services:
     environment:
       - FLAG=${FLAG}
       - LAUNCHER_PORT=8080
-      - DISABLE_TICKET=true
+      # - DISABLE_TICKET=true
     deploy:
       resources:
         limits:
           cpus: "1.0"
+    tmpfs:
+      - /tmp
