@@ -1,0 +1,2 @@
+## Solver
+Pergi ke link lichess, di bagian share & export, kepaling bawah dan copy PGN nya "1. h3 { A00 Clemenz Opening } c5 2. a3 a6 3. g3 h5 4. f4 Qc7 5. e4 b5 6. f5 d5 7. Bg2 dxe4 8. Bf1 Kd7 9. g4 h4 10. Bc4 Bb7 11. b4 Ra7 12. Bxf7 e6 13. Bg6 Qc6 14. Bh7 Kc8 15. c3 Qc7 16. Qc2 Ra8 17. Qa2 Nf6 18. Qb2 g6 19. d3 Ne8 20. Kd1 e5 21. Bg5 a5 22. Be3 Qb6 23. Nd2 gxf5 24. Qb1 { White wins. } 1-0" lalu pakai link ini untuk proses decode nya (https://incoherency.co.uk/chess-steg)

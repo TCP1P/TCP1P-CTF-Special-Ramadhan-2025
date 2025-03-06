@@ -1,0 +1,12 @@
+name: "Terix"
+author: "WanZKey"
+description:
+  Bulan Puasa ini cuacanya terix banget ya ges, pen minum rasanya:)
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{E4sy-ch4ll_M4tr1x!}"
+
+provide: "./dist"

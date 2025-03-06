@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "Baby Foren"
+author: "Karev"
+description: |
+  My student submitted his homework but I can't open it? Can you help me?
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{h3y_y0u_fix3d_th3_h3ad3r2!c0ngrats}"
+
+provide: "./dist"

@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "WEGOGYM!"
+author: "b4r"
+description: |
+  Suatu hari saat aku lagi asik scroll Instagram (sesudah scroll fesnuk), aku menemukan komentar aneh di akun intagram gym oren langganan ku, tapi yasudah lah, paling hanya orang iseng. BTW teman ku bilang iya ingin ke tempat gym langganan ku, dan dia memberiku foto, tapi dia tersasar, untungnya tempat dia tersasar tidak jauh dari GYM ku, ya kurang lebih cuman 1km, jadi aman lah ya.
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{h0w_muCh_y0ur_b3nch??}"
+
+provide: "./dist"

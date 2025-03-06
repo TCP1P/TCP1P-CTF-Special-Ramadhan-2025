@@ -1,0 +1,14 @@
+name: "Cube Cute"
+author: "WanZKey"
+category: Crypto
+description:
+  Easy chall to count?, yap, just focus on counting!.
+  maybe yes, number three will help you!, don't forget the bit!!!.
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{Lag1-Pu4s4_b3laj4r_Cub3-r0ot-C4lcul4t0r}"
+
+provide: "./dist"
