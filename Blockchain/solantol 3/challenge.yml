@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "solantol 2"
+author: "dimas"
+description: |
+  Challenge solana kedua di TCP1P :)
+
+  Connect: http://{{ .host }}:9752
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{congrats_you_just_create_your_first_account}"
+
+
+provide: "./dist"
+
+scripts:
+    start: cd src && docker compose -p {{.slug}} up --build -d
+    stop: cd src && docker compose -p {{.slug}} down --volumes
