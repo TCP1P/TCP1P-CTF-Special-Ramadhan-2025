@@ -1,0 +1,12 @@
+name: "ffiishy"
+author: "f4r4w4y"
+description: |
+  Foreign Function Interface is FFIishy (or ffiilthy?)
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{recursion_through_ffi_calls_to_confuse_you}"
+
+provide: "./dist"

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fishy</string>
+    <string name="flag">you_really_think_this_is_the_flag_huh_????</string>
+    <string name="calc">calculate !</string>
+    <string name="input">Input some numbers here</string>
+</resources>
