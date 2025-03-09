@@ -1,0 +1,13 @@
+services:
+  uturn:
+    container_name: uturn_container
+    build: .
+    restart: always
+    ports:
+      - 33132:8888
+    read_only: true
+    deploy:
+      resources:
+        limits:
+          cpus: '0.25'
+          memory: 256M

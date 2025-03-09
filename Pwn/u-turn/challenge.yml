@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "u-turn"
+author: "nouxia"
+description: |
+  turn 360 degrees and walk away
+
+  Connect: nc {{ .host }} 33132
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{RbP_nUlL_By73_574cK_P1V07}"
+
+
+provide: "./dist"
+
+scripts:
+    start: cd src && docker compose -p {{.slug}} up --build -d
+    stop: cd src && docker compose -p {{.slug}} down --volumes
