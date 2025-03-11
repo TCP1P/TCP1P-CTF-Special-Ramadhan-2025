@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "Codeless Contract"
+author: "firdausfarul"
+description: |
+ عقد ذكي بدون كود؟؟؟ هل هذا ممكن حتى؟
+  Connect: http://{{ .host }}:8192
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{إِنّى صَائِمٌ}"
+
+
+provide: "./dist"
+
+scripts:
+    start: cd src/challenge-eth && docker compose -p {{.slug}} up --build -d
+    stop: cd src/challenge-eth && docker compose -p {{.slug}} down --volumes
