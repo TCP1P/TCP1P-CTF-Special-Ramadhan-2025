@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "Perfect"
+author: "ilupii"
+description: |
+  i have faith what i see, now i know i have met an angel in person and she looks perfect.... perfect kayak binarynya 
+
+  Connect: nc {{ .host }} 4156
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{Ch1ll_br0_jusT_a_ret2win_w1th_f0rmat_string}"
+
+scripts:
+  start: cd src && docker compose -p {{.slug}} up --build -d
+  stop: cd src && docker compose -p {{.slug}} down --volumes
+
+provide: "./dist"

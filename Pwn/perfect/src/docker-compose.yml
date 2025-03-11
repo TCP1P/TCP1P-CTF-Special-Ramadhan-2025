@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+    ret2win2:
+        build: .
+        restart: always
+        ports:
+            - "4156:1470"
