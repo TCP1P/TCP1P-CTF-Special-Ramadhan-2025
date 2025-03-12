@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "Redirection"
+author: "dimas"
+description: |
+  Can you do open redirection on youtube?
+
+  Connect: http://{{.host}}:11451
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{open_redirection_on_youtube_is_really_handy}"
+
+provide: "./dist"
+
+scripts:
+    start: cd src && docker compose -p {{.slug}} up --build -d
+    stop: cd src && docker compose -p {{.slug}} down --volumes

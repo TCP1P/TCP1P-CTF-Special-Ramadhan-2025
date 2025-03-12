@@ -1,0 +1,7 @@
+services:
+  app:
+    build: .
+    ports:
+      - 16787:8080
+    environment:
+      - FLAG=RAMADAN{open_redirection_on_youtube_is_really_handy}
