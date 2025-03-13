@@ -5,6 +5,8 @@ author: "ilupii"
 description: |
   Aku dan temanku bingung mau berbuka pake apa, tapi tiba tiba ada orang bagi bagi takjil kue pie
 
+  Connect: nc {{ .host }} 19001
+
 type: "StaticAttachment"
 value: 1000
 
@@ -12,3 +14,7 @@ flags:
   - "RAMADAN{kue_pienyya_en4kk4nn_selamat_berbuka}"
 
 provide: "./dist"
+
+scripts:
+    start: cd src && docker compose -p {{.slug}} up --build -d
+    stop: cd src && docker compose -p {{.slug}} down --volumes
