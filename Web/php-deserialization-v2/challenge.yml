@@ -1,19 +1,17 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
 
-name: "Redirection"
+name: "PHP Deserialization V2"
 author: "dimas"
 description: |
-  Can you do open redirection on youtube?
+  Can you exploit this PHP code?
 
-  Connect: http://{{.host}}:16787
+  Connect: http://{{.host}}:9432
 
 type: "StaticAttachment"
 value: 1000
 
 flags:
-  - "RAMADAN{open_redirection_on_youtube_is_really_handy}"
-
-provide: "./dist"
+  - "RAMADAN{php_deserialization_is_fun}"
 
 scripts:
     start: cd src && docker compose -p {{.slug}} up --build -d
