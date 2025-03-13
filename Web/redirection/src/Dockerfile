@@ -3,7 +3,7 @@ FROM python:alpine
 RUN pip3 install requests flask gunicorn
 
 WORKDIR /app
-COPY ./src/app.py ./app.py
+COPY app.py ./app.py
 
 USER 1001
 
