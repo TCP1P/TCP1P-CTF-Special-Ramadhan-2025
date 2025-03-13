@@ -1,0 +1,3 @@
+[submodule "Blockchain/codeless contract/solver/lib/forge-std"]
+	path = Blockchain/codeless contract/solver/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
