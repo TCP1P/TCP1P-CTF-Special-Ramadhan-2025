@@ -15,5 +15,6 @@ services:
       resources:
         limits:
           cpus: "1.0"
+          memory: 100M
     tmpfs:
       - /tmp

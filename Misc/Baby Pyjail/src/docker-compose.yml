@@ -4,3 +4,8 @@ services:
     restart: on-failure
     ports:
       - 8011:8011
+    deploy:
+      resources:
+        limits:
+          cpus: '0.001'
+          memory: 50M

@@ -6,3 +6,8 @@ services:
         restart: always
         ports:
             - "4156:1470"
+        deploy:
+          resources:
+            limits:
+              cpus: "0.001"
+              memory: 50M

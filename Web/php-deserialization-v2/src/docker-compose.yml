@@ -6,3 +6,8 @@ services:
     environment:
       - PHP_MEMORY_LIMIT=256M
     restart: unless-stopped 
+    deploy:
+      resources:
+        limits:
+          cpus: "0.001"
+          memory: 50M

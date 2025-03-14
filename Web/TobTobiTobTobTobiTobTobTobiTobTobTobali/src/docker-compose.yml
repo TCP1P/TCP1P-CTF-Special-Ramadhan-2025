@@ -7,3 +7,9 @@ services:
     ports:
       - "8888:5000"
     restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: "0.001"
+          memory: 50M
+
