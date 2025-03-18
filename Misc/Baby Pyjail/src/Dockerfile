@@ -20,4 +20,4 @@ RUN chmod -R 555 /home/ctf/chall
 USER ctf
 WORKDIR /home/ctf/chall/src
 
-CMD ["./run.sh"]
+CMD ["sh", "./run.sh"]

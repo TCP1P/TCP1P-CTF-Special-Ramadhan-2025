@@ -4,21 +4,18 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: example
-    deploy:
-      resources:
-        limits:
-          cpus: "0.001"
-          memory: 50M
 
   takjilshare:
     build: .
-    restart: on-failure
+    restart: always
     ports:
       - 11451:5000
     environment:
       MONGODB_URI: mongodb://root:example@mongodb:27017
+    depends_on:
+      - mongodb
     deploy:
       resources:
         limits:
-          cpus: "0.001"
-          memory: 50M
+          cpus: "1"
+          memory: 500M
