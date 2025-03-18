@@ -1,0 +1,13 @@
+name: "Cube Cute 2"
+author: "WanZKey"
+category: Crypto
+description:
+  same as the first, let's find out cube?
+
+type: "StaticAttachment"
+value: 1000
+
+flags: 
+  - "RAMADAN{Cube_2_root_just_c0nv3rt_l0ng_1nt3g3r_t0_byt3s}"
+
+provide: "./dist"

@@ -1,0 +1,11 @@
+name: "Stalker"
+author: "b4r"
+description: |
+  To the point, stalk ujangmokel dan temannya!!
+  
+Hint: "chall di dalam chall"
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{harleydavidson_flhr_1690_2023}"
