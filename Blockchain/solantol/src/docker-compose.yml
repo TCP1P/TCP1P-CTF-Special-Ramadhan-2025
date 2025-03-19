@@ -11,10 +11,5 @@ services:
       - FLAG=${FLAG}
       - LAUNCHER_PORT=8080
       # - DISABLE_TICKET=true
-    deploy:
-      resources:
-        limits:
-          cpus: "1.0"
-          memory: 100M
     tmpfs:
       - /tmp
