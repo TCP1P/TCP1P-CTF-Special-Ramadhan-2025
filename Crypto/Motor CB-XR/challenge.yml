@@ -1,0 +1,18 @@
+name: "Motor CB-XR"
+author: "WanZKey"
+category: Crypto
+description:
+  Base64 and Base32 codes are very familiar, right? I don't know, 
+  but both of their numbers will help you get this "Motor CB-XR".
+
+  Calculation is key, but a little analysis will help.
+
+  Well whatever it is, congratulations if you get this "CB-XR Motorcycle"!.
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{X0R_w1th_CBC_n0w_y0u_g3t_n3w_l3ss0n}"
+
+provide: "./dist"

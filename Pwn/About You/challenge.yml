@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "About You"
+author: "ilupii"
+description: |
+  Do you think I have forgotten?
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{ROP_with_leak_printf_it_easy_right????????????????}"
+
+provide: "./dist"
+
+scripts:
+    start: cd src && docker compose -p {{.slug}} up --build -d
+    stop: cd src && docker compose -p {{.slug}} down --volumes

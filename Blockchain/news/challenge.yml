@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "news"
+author: "thehxnz"
+description: |
+  new kid
+
+  Connect: http://{{ .host }}:24366
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADHAN{once_impossible_now_possible_7702}"
+
+
+provide: "./dist"
+
+scripts:
+    start: cd src && docker compose -p {{.slug}} up --build -d
+    stop: cd src && docker compose -p {{.slug}} down --volumes
