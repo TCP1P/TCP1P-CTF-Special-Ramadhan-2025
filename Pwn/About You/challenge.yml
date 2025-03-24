@@ -5,6 +5,8 @@ author: "ilupii"
 description: |
   Do you think I have forgotten?
 
+  Connection: nc {{ .host}} 19121
+
 type: "StaticAttachment"
 value: 1000
 
