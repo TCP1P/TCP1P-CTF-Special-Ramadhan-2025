@@ -3,10 +3,10 @@ const bs58 = require('bs58');
 const { Keypair, PublicKey } = anchor.web3;
 
 // Replace these values with your own
-PLAYER_KEYPAIR = "1kD4LUuaeJMTymNmaPV1DqKkU1CsD6SeALZ2V4taUM6bbswjG8iLZmmnB6cMQB4a5uCaJsDAS1jVVVce5gt4eMk"
-CTX_PUBKEY = "8Gbbcrtf4pH3BrYs3ZiggGV9HGncBnSoiScNf6zPUzZX"
-PROGRAM_ID = "79zQndL7KKSDk8efhtwnTgrxFv7ctbyRGhArNHXKRzRf"
-RPC_URL = "http://playground.tcp1p.team:9752/a9a60fa2-3a95-48a3-93e6-3e3aedf3fae5"
+PLAYER_KEYPAIR = "4qdrXdy8gizVysMTau5Dqe5sLjM8WvmqwvmNpheeZzC5SYomNEQ5BaNJGWekoixtmywUkBUX6Gr1Fj1nu9Ny1Hqx"
+CTX_PUBKEY = "4Em6CWpmT7ktoq2ftQ9rkkoDUG3JNCSAVtZg8P4SfVcj"
+PROGRAM_ID = "9uodwk627Rniw7NQuN7mDHo3o4LzqbuTb8DTdjHrr4tH"
+RPC_URL = "http://playground.tcp1p.team:9752/e0fbd54e-bdea-481f-824e-c303f1bcd704"
 
 const main = async () => {
   try {

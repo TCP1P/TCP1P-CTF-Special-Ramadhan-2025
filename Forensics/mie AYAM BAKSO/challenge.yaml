@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "mie AYAM BAKSO"
+author: "b4r"
+description: |
+  1 porsi mie ayam bakso saat buka puasa
+
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{ASTANDFORAYAMBSTANDFORBAKSO}"
+
+provide: "./dist"

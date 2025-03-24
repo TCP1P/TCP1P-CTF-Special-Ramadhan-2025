@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dimasma0305/ctfify/refs/heads/master/function/template/templates/others/ctf-template/.gzctf/challenge.schema.yaml
+
+name: "Tebak Nama"
+author: "Rasshaaa"
+description: |
+  Sebagai sosok nolep yang keluar cuma pas acara keluarga, chall osint jadi neraka kalo berhubungan sama tempat. Mending ngabuburit tebak nama hehe. Aku punya teman yang ambisnya bikin nangis. Bahkan saking ambisnya dia sampai memiliki total 90+ Sertifikat jir. Dia satu sekolah denganku dan sekarang sedang PKL duluan di perusahaan yang namanya sama kayak pemimpin Autobots. Btw di salah satu medsos ada postingan dia pernah foto pake almet ITS. Siapakah nama teman yang aku maksud?
+
+  Kirim nama yang kamu temukan dan nama lengkap perusahaan tempat dia PKL sekarang ke Discord author supaya dapat flagnya. 
+  
+type: "StaticAttachment"
+value: 1000
+
+flags:
+  - "RAMADAN{ini_nggak_guessy_kan_ya_ges?_atau_terlalu_gampang?_maklum_ini_chall_pertama_yang_saya_bikin_hehe}"    
