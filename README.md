@@ -1,11 +1,11 @@
 # CTF Challenge Maker & Writeup Submission Guide
 
-Format flag: `.*{.*}`
+Format flag: `RAMADAN{.*}`
 
 ## Important Dates
 
-- **CTF Start Date:** [CTF Start Date]
-- **Challenge Submission Deadline:** [Challenge Submission Deadline]
+- **CTF Start Date:** March 4, 2025 5:00 PM
+- **Challenge Submission Deadline:** -
 
 ## Instructions for Participants
 
