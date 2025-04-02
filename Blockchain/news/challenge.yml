@@ -5,7 +5,7 @@ author: "thehxnz"
 description: |
   new kid
 
-  Connect: http://{{ .host }}:24366
+  Connect: http://{{ .host }}:2077
 
 type: "StaticAttachment"
 value: 1000

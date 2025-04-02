@@ -10,6 +10,7 @@ services:
       - FLAG=${FLAG}
       - LAUNCHER_PORT=2077
       # - DISABLE_TICKET=true
+      - EVM_VERSION=${EVM_VERSION}
     deploy:
       resources:
         limits:
