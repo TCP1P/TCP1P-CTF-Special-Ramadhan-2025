@@ -1,0 +1,16 @@
+name: Cube Cute 2
+author: WanZKey
+description: 'same as the first, let''s find out cube?
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Cube%20Cute%202).'
+type: StaticAttachment
+category: Crypto
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{Cube_2_root_just_c0nv3rt_l0ng_1nt3g3r_t0_byt3s}
+provide: dist

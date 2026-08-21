@@ -1,0 +1,16 @@
+name: Stalker
+author: b4r
+description: 'To the point, stalk ujangmokel dan temannya!!
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/OSINT/Stalker).'
+type: StaticAttachment
+category: OSINT
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{harleydavidson_flhr_1690_2023}
+provide: dist

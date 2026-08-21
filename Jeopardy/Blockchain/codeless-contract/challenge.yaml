@@ -1,0 +1,11 @@
+name: Codeless Contract
+author: firdausfarul
+description: "عقد ذكي بدون كود؟؟؟ هل هذا ممكن حتى؟\n Connect: http://{{ .host }}:8192\n\n---\nHistorical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/codeless%20contract)."
+type: StaticAttachment
+category: Blockchain
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{إِنّى صَائِمٌ}
+provide: dist

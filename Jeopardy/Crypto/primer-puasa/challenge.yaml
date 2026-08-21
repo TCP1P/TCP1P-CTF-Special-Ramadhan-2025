@@ -1,0 +1,16 @@
+name: Primer Puasa
+author: WanZKey
+description: 'Gatau mau ngisi deskripsinya apa, intinya next!, 128!.
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Primer%20Puasa).'
+type: StaticAttachment
+category: Crypto
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{Puas4-g4s_Crypt0-C0y_bi4r_Pr1me!!!}
+provide: dist

@@ -1,0 +1,16 @@
+name: WEGOGYM!
+author: b4r
+description: 'Suatu hari saat aku lagi asik scroll Instagram (sesudah scroll fesnuk), aku menemukan komentar aneh di akun intagram gym oren langganan ku, tapi yasudah lah, paling hanya orang iseng. BTW teman ku bilang iya ingin ke tempat gym langganan ku, dan dia memberiku foto, tapi dia tersasar, untungnya tempat dia tersasar tidak jauh dari GYM ku, ya kurang lebih cuman 1km, jadi aman lah ya.
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/OSINT/WEGOGYM%21).'
+type: StaticAttachment
+category: OSINT
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{h0w_muCh_y0ur_b3nch??}
+provide: dist

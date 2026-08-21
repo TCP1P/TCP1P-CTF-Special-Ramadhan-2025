@@ -1,0 +1,11 @@
+name: Mr Black
+author: unknown
+description: "Hei lihat saya mendapat permintaan tolong dari Mr Black. Dia adalah teman ayahku. \nIa memintaku untuk memperbaiki fotonya yang telah rusak. Fotonya tiba-tiba berubah ukuran(ukuran awal 1000x614) dan jadi tidak dapat dibuka. \nEntah kenapa ia mengirimkan file zip dengan keamanan berlapis. Kata Mr Black password keamanannya juga tersembunyi pada file zip tersebut.\n\n---\nHistorical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/MR%20Black)."
+type: StaticAttachment
+category: Forensics
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- flag{mr_bl4ck_y0ur_1m4g3_h@5_b33n_r3c0v3r3d}
+provide: dist

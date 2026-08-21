@@ -1,0 +1,11 @@
+name: sawt safiri
+author: amek
+description: "Temenku tadi ngechat, katanya akhir-akhir ini dia kebanyakan scroll TikTok. Terus, tiba-tiba dia ngirimin aku lagu yang katanya lagi sering muncul di sana. Nggak tau kenapa, tapi rasanya kayak dia mau nyampein sesuatu, cuma nggak secara langsung.  \n\nSelain itu, dia juga ngirimin foto kucing.. kucingnya sih lucu banget, tapi aku ngerasa ada yang aneh. Kayak ada sesuatu yang diselipin di tempat yang nggak terlalu mencolok. Aku coba otak-atik, siapa tau ada sesuatu yang kecil tapi sebenarnya penting. Soalnya, kadang hal-hal yang kelihatan biasa aja justru nyimpan sesuatu di dalamnya.  \n\nMungkin perlu lebih jeli buat nemuin apa yang dia sembunyikan. Bantuin gue cari tahu, yuk?\"\n\n---\nHistorical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/sawtsafiri)."
+type: StaticAttachment
+category: Forensics
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{t0b_t0b1_t0b_t0b4l1}
+provide: dist

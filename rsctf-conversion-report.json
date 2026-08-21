@@ -1,0 +1,333 @@
+{
+  "sourceRepository": "TCP1P/TCP1P-CTF-Special-Ramadhan-2025",
+  "targetRepository": "TCP1P/TCP1P-CTF-Special-Ramadhan-2025",
+  "private": false,
+  "events": [
+    "TCP1P CTF Special Ramadhan 2025"
+  ],
+  "challenges": [
+    {
+      "name": "Codeless Contract",
+      "category": "Blockchain",
+      "source": "Blockchain/codeless contract/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/codeless%20contract",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Blockchain/codeless-contract/challenge.yaml"
+    },
+    {
+      "name": "news",
+      "category": "Blockchain",
+      "source": "Blockchain/news/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/news",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Blockchain/news/challenge.yaml"
+    },
+    {
+      "name": "solantol",
+      "category": "Blockchain",
+      "source": "Blockchain/solantol/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/solantol",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Blockchain/solantol/challenge.yaml"
+    },
+    {
+      "name": "solantol 2",
+      "category": "Blockchain",
+      "source": "Blockchain/solantol 2/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/solantol%202",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Blockchain/solantol-2/challenge.yaml"
+    },
+    {
+      "name": "solantol 3",
+      "category": "Blockchain",
+      "source": "Blockchain/solantol 3/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/solantol%203",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Blockchain/solantol-3/challenge.yaml"
+    },
+    {
+      "name": "Cube Cute",
+      "category": "Crypto",
+      "source": "Crypto/Cube Cute/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Cube%20Cute",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Crypto/cube-cute/challenge.yaml"
+    },
+    {
+      "name": "Cube Cute 2",
+      "category": "Crypto",
+      "source": "Crypto/Cube Cute 2/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Cube%20Cute%202",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Crypto/cube-cute-2/challenge.yaml"
+    },
+    {
+      "name": "Es Coco Prime",
+      "category": "Crypto",
+      "source": "Crypto/Es Coco Prime/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Es%20Coco%20Prime",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Crypto/es-coco-prime/challenge.yaml"
+    },
+    {
+      "name": "Motor CB-XR",
+      "category": "Crypto",
+      "source": "Crypto/Motor CB-XR/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Motor%20CB-XR",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Crypto/motor-cb-xr/challenge.yaml"
+    },
+    {
+      "name": "Primer Puasa",
+      "category": "Crypto",
+      "source": "Crypto/Primer Puasa/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Primer%20Puasa",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Crypto/primer-puasa/challenge.yaml"
+    },
+    {
+      "name": "Terix",
+      "category": "Crypto",
+      "source": "Crypto/Terix/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Terix",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Crypto/terix/challenge.yaml"
+    },
+    {
+      "name": "Mr Black",
+      "category": "Forensics",
+      "source": "Forensics/MR Black/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/MR%20Black",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Forensics/mr-black/challenge.yaml"
+    },
+    {
+      "name": "Baby Foren",
+      "category": "Forensics",
+      "source": "Forensics/baby_foren/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/baby_foren",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Forensics/baby-foren/challenge.yaml"
+    },
+    {
+      "name": "mie AYAM BAKSO",
+      "category": "Forensics",
+      "source": "Forensics/mie AYAM BAKSO/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/mie%20AYAM%20BAKSO",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Forensics/mie-ayam-bakso/challenge.yaml"
+    },
+    {
+      "name": "sawt safiri",
+      "category": "Forensics",
+      "source": "Forensics/sawtsafiri/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/sawtsafiri",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Forensics/sawt-safiri/challenge.yaml"
+    },
+    {
+      "name": "takjil-atin",
+      "category": "Forensics",
+      "source": "Forensics/takjilatin/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/takjilatin",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Forensics/takjil-atin/challenge.yaml"
+    },
+    {
+      "name": "tukang-ketik",
+      "category": "Forensics",
+      "source": "Forensics/tukang-ketik/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/tukang-ketik",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Forensics/tukang-ketik/challenge.yaml"
+    },
+    {
+      "name": "Baby Pyjail",
+      "category": "Misc",
+      "source": "Misc/Baby Pyjail/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Misc/Baby%20Pyjail",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Misc/baby-pyjail/challenge.yaml"
+    },
+    {
+      "name": "Stego Gambit",
+      "category": "Misc",
+      "source": "Misc/stegogambit/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Misc/stegogambit",
+      "type": "StaticAttachment",
+      "warnings": [
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/Misc/stego-gambit/challenge.yaml"
+    },
+    {
+      "name": "Stalker",
+      "category": "OSINT",
+      "source": "OSINT/Stalker/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/OSINT/Stalker",
+      "type": "StaticAttachment",
+      "warnings": [
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/OSINT/stalker/challenge.yaml"
+    },
+    {
+      "name": "Tebak Nama",
+      "category": "OSINT",
+      "source": "OSINT/TebakNama/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/OSINT/TebakNama",
+      "type": "StaticAttachment",
+      "warnings": [
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/OSINT/tebak-nama/challenge.yaml"
+    },
+    {
+      "name": "WEGOGYM!",
+      "category": "OSINT",
+      "source": "OSINT/WEGOGYM!/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/OSINT/WEGOGYM%21",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/OSINT/wegogym/challenge.yaml"
+    },
+    {
+      "name": "About You",
+      "category": "Pwn",
+      "source": "Pwn/About You/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/About%20You",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Pwn/about-you/challenge.yaml"
+    },
+    {
+      "name": "Berbuka Dengan PIE",
+      "category": "Pwn",
+      "source": "Pwn/berbuka_dengan_PIE/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/berbuka_dengan_PIE",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Pwn/berbuka-dengan-pie/challenge.yaml"
+    },
+    {
+      "name": "Perfect",
+      "category": "Pwn",
+      "source": "Pwn/perfect/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/perfect",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Pwn/perfect/challenge.yaml"
+    },
+    {
+      "name": "u-turn",
+      "category": "Pwn",
+      "source": "Pwn/u-turn/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/u-turn",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Pwn/u-turn/challenge.yaml"
+    },
+    {
+      "name": "Gacor",
+      "category": "Reverse",
+      "source": "Reverse/Gacor/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/Gacor",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Reverse/gacor/challenge.yaml"
+    },
+    {
+      "name": "Raw Diary",
+      "category": "Reverse",
+      "source": "Reverse/Raw Diary/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/Raw%20Diary",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Reverse/raw-diary/challenge.yaml"
+    },
+    {
+      "name": "ffiishy",
+      "category": "Reverse",
+      "source": "Reverse/ffiishy/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/ffiishy",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Reverse/ffiishy/challenge.yaml"
+    },
+    {
+      "name": "Mencari PW",
+      "category": "Reverse",
+      "source": "Reverse/mencaripw/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/mencaripw",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Reverse/mencari-pw/challenge.yaml"
+    },
+    {
+      "name": "nomolog",
+      "category": "Reverse",
+      "source": "Reverse/nomolog/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/nomolog",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Reverse/nomolog/challenge.yaml"
+    },
+    {
+      "name": "TobTobiTobTobTobiTobTobTobiTobTobTobali",
+      "category": "Web",
+      "source": "Web/TobTobiTobTobTobiTobTobTobiTobTobTobali/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/TobTobiTobTobTobiTobTobTobiTobTobTobali",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Web/tobtobitobtobtobitobtobtobitobtobtobali/challenge.yaml"
+    },
+    {
+      "name": "Ingfokan Lokasi Takjil",
+      "category": "Web",
+      "source": "Web/ingfokanlokasitakjil/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/ingfokanlokasitakjil",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Web/ingfokan-lokasi-takjil/challenge.yaml"
+    },
+    {
+      "name": "PHP Deserialization V2",
+      "category": "Web",
+      "source": "Web/php-deserialization-v2/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/php-deserialization-v2",
+      "type": "StaticAttachment",
+      "warnings": [
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/Web/php-deserialization-v2/challenge.yaml"
+    },
+    {
+      "name": "Redirection",
+      "category": "Web",
+      "source": "Web/redirection/challenge.yml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/redirection",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Web/redirection/challenge.yaml"
+    }
+  ]
+}

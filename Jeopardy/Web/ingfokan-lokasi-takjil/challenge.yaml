@@ -1,0 +1,11 @@
+name: Ingfokan Lokasi Takjil
+author: Max The Computer Fox
+description: "Max dan teman teman nya sedang berencana untuk mencari takjil sebanyak mungkin\nuntuk entar dimakan bersama saat buka nanti, tetapi mereka harus cepat sebelum\ntakjil takjil yang di jual habis. Merekapun membuat platform untuk membagikan\nlokasi lokasi takjil yang dapat mereka kunjungi secara privat, apakah anda dapat \nmenemukan vulnerabilitas di platform mereka untuk mencari lokasi takjil favorit Max?\n\nConnect: http://{{.host}}:11451\n\n---\nHistorical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/ingfokanlokasitakjil)."
+type: StaticAttachment
+category: Web
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{T4kj1lnya_K3mana_Ab4ngkuh}
+provide: dist

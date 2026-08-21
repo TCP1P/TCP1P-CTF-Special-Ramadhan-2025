@@ -1,0 +1,16 @@
+name: Es Coco Prime
+author: WanZKey
+description: 'Please verify first whether it is "coco" or not? If yes, maybe the "coco" seller, "Mr. Euclidean" will help you pour it, and yes, always remember the simple mathematics of "x" and "y" because they are the minimum formula for this "coco" which is very delicious.
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Es%20Coco%20Prime).'
+type: StaticAttachment
+category: Crypto
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{bel4jar_common_modulus_attack_m4ke_coprime_coy!!!_very_easy_ga_sii?}
+provide: dist

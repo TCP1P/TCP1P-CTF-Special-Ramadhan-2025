@@ -1,0 +1,19 @@
+name: PHP Deserialization V2
+author: dimas
+description: 'Can you exploit this PHP code?
+
+
+  Connect: http://{{.host}}:9432
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/php-deserialization-v2).'
+type: StaticAttachment
+category: Web
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{php_deserialization_is_fun}
+provide: dist

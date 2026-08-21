@@ -1,0 +1,16 @@
+name: nomolog
+author: .effie
+description: 'D.I.D. i do that??
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/nomolog).'
+type: StaticAttachment
+category: Reverse
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- '{_sshhhhhhh_d0n7_l00k_0r_54y_4ny7h1n6_oookkkkkkkk?_}'
+provide: dist

@@ -1,0 +1,16 @@
+name: mie AYAM BAKSO
+author: b4r
+description: '1 porsi mie ayam bakso saat buka puasa
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/mie%20AYAM%20BAKSO).'
+type: StaticAttachment
+category: Forensics
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{ASTANDFORAYAMBSTANDFORBAKSO}
+provide: dist

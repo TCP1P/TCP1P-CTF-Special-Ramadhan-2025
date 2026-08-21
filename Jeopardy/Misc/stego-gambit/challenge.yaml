@@ -1,0 +1,19 @@
+name: Stego Gambit
+author: b4r
+description: 'Kemarin malam aku sama bapak-bapak ronda main catur sekalian nunggu sahur, liat deh, gimana gg ga?
+
+
+  Link: https://lichess.org/zI2kj3wX#0
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Misc/stegogambit).'
+type: StaticAttachment
+category: Misc
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{d3w4_k1p45_04109132}
+provide: dist

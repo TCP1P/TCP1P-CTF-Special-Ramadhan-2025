@@ -1,0 +1,16 @@
+name: Baby Foren
+author: Karev
+description: 'My student submitted his homework but I can''t open it? Can you help me?
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/baby_foren).'
+type: StaticAttachment
+category: Forensics
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- RAMADAN{h3y_y0u_fix3d_th3_h3ad3r2!c0ngrats}
+provide: dist
