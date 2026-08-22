@@ -1,0 +1,22 @@
+name: Berbuka Dengan PIE
+author: ilupii
+description: 'Aku dan temanku bingung mau berbuka pake apa, tapi tiba tiba ada orang bagi bagi takjil kue pie
+
+
+  Connect: nc {{ .host }} 19001
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/berbuka_dengan_PIE).'
+type: DynamicContainer
+category: Pwn
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flagTemplate: RAMADAN{berbuka_dengan_pie__[TEAM_HASH]}
+container:
+  memoryLimit: 128
+  cpuCount: 1
+  exposePort: 1470
+  enableTrafficCapture: false

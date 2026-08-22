@@ -12,6 +12,7 @@
       "source": "Blockchain/codeless contract/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/codeless%20contract",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Blockchain/codeless-contract/challenge.yaml"
     },
@@ -20,36 +21,60 @@
       "category": "Blockchain",
       "source": "Blockchain/news/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/news",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Blockchain/news/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADHAN{news_____________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through launcher FLAG environment contract",
+        "dynamic runtime compatibility rewrote 0 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Blockchain/news-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "solantol",
       "category": "Blockchain",
       "source": "Blockchain/solantol/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/solantol",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Blockchain/solantol/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{solantol___[TEAM_HASH]}'",
+        "dynamic flag delivery proven through launcher FLAG environment contract",
+        "dynamic runtime compatibility rewrote 0 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Blockchain/solantol-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "solantol 2",
       "category": "Blockchain",
       "source": "Blockchain/solantol 2/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/solantol%202",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Blockchain/solantol-2/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{solantol_2_______[TEAM_HASH]}'",
+        "dynamic flag delivery proven through launcher FLAG environment contract",
+        "dynamic runtime compatibility rewrote 0 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Blockchain/solantol-2-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "solantol 3",
       "category": "Blockchain",
       "source": "Blockchain/solantol 3/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/solantol%203",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Blockchain/solantol-3/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{solantol_3_________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through launcher FLAG environment contract",
+        "dynamic runtime compatibility rewrote 0 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Blockchain/solantol-3-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Cube Cute",
@@ -57,6 +82,7 @@
       "source": "Crypto/Cube Cute/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Cube%20Cute",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Crypto/cube-cute/challenge.yaml"
     },
@@ -66,6 +92,7 @@
       "source": "Crypto/Cube Cute 2/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Cube%20Cute%202",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Crypto/cube-cute-2/challenge.yaml"
     },
@@ -75,6 +102,7 @@
       "source": "Crypto/Es Coco Prime/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Es%20Coco%20Prime",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Crypto/es-coco-prime/challenge.yaml"
     },
@@ -84,6 +112,7 @@
       "source": "Crypto/Motor CB-XR/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Motor%20CB-XR",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Crypto/motor-cb-xr/challenge.yaml"
     },
@@ -93,6 +122,7 @@
       "source": "Crypto/Primer Puasa/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Primer%20Puasa",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Crypto/primer-puasa/challenge.yaml"
     },
@@ -102,6 +132,7 @@
       "source": "Crypto/Terix/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Crypto/Terix",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Crypto/terix/challenge.yaml"
     },
@@ -111,6 +142,7 @@
       "source": "Forensics/MR Black/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/MR%20Black",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Forensics/mr-black/challenge.yaml"
     },
@@ -120,6 +152,7 @@
       "source": "Forensics/baby_foren/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/baby_foren",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Forensics/baby-foren/challenge.yaml"
     },
@@ -129,6 +162,7 @@
       "source": "Forensics/mie AYAM BAKSO/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/mie%20AYAM%20BAKSO",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Forensics/mie-ayam-bakso/challenge.yaml"
     },
@@ -138,6 +172,7 @@
       "source": "Forensics/sawtsafiri/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/sawtsafiri",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Forensics/sawt-safiri/challenge.yaml"
     },
@@ -147,6 +182,7 @@
       "source": "Forensics/takjilatin/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/takjilatin",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Forensics/takjil-atin/challenge.yaml"
     },
@@ -156,6 +192,7 @@
       "source": "Forensics/tukang-ketik/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Forensics/tukang-ketik",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Forensics/tukang-ketik/challenge.yaml"
     },
@@ -164,9 +201,15 @@
       "category": "Misc",
       "source": "Misc/Baby Pyjail/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Misc/Baby%20Pyjail",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Misc/baby-pyjail/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{baby_pyjail_______________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Misc/baby-pyjail-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Stego Gambit",
@@ -174,6 +217,7 @@
       "source": "Misc/stegogambit/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Misc/stegogambit",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
         "no player attachment files were present"
       ],
@@ -185,6 +229,7 @@
       "source": "OSINT/Stalker/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/OSINT/Stalker",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
         "no player attachment files were present"
       ],
@@ -196,6 +241,7 @@
       "source": "OSINT/TebakNama/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/OSINT/TebakNama",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
         "no player attachment files were present"
       ],
@@ -207,6 +253,7 @@
       "source": "OSINT/WEGOGYM!/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/OSINT/WEGOGYM%21",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/OSINT/wegogym/challenge.yaml"
     },
@@ -215,36 +262,60 @@
       "category": "Pwn",
       "source": "Pwn/About You/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/About%20You",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Pwn/about-you/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{about_you_________________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Pwn/about-you-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Berbuka Dengan PIE",
       "category": "Pwn",
       "source": "Pwn/berbuka_dengan_PIE/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/berbuka_dengan_PIE",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Pwn/berbuka-dengan-pie/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{berbuka_dengan_pie__[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Pwn/berbuka-dengan-pie-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Perfect",
       "category": "Pwn",
       "source": "Pwn/perfect/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/perfect",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Pwn/perfect/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{perfect____________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Pwn/perfect-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "u-turn",
       "category": "Pwn",
       "source": "Pwn/u-turn/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Pwn/u-turn",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Pwn/u-turn/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{u_turn___[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Pwn/u-turn-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Gacor",
@@ -252,6 +323,7 @@
       "source": "Reverse/Gacor/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/Gacor",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Reverse/gacor/challenge.yaml"
     },
@@ -261,6 +333,7 @@
       "source": "Reverse/Raw Diary/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/Raw%20Diary",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Reverse/raw-diary/challenge.yaml"
     },
@@ -270,6 +343,7 @@
       "source": "Reverse/ffiishy/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/ffiishy",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Reverse/ffiishy/challenge.yaml"
     },
@@ -279,6 +353,7 @@
       "source": "Reverse/mencaripw/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/mencaripw",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Reverse/mencari-pw/challenge.yaml"
     },
@@ -288,6 +363,7 @@
       "source": "Reverse/nomolog/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Reverse/nomolog",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [],
       "manifest": "Jeopardy/Reverse/nomolog/challenge.yaml"
     },
@@ -296,9 +372,15 @@
       "category": "Web",
       "source": "Web/TobTobiTobTobTobiTobTobTobiTobTobTobali/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/TobTobiTobTobTobiTobTobTobiTobTobTobali",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Web/tobtobitobtobtobitobtobtobitobtobtobali/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{tobtobitobtobtobitobtobtobitobtobtobali_______________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Web/tobtobitobtobtobitobtobtobitobtobtobali-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Ingfokan Lokasi Takjil",
@@ -306,6 +388,7 @@
       "source": "Web/ingfokanlokasitakjil/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/ingfokanlokasitakjil",
       "type": "StaticAttachment",
+      "runtimeReason": "Compose declares 2 services; the production Docker backend supports one service per DynamicContainer",
       "warnings": [],
       "manifest": "Jeopardy/Web/ingfokan-lokasi-takjil/challenge.yaml"
     },
@@ -314,20 +397,30 @@
       "category": "Web",
       "source": "Web/php-deserialization-v2/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/php-deserialization-v2",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "no player attachment files were present"
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{php_deseri[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Web/php-deserialization-v2/challenge.yaml"
+      "manifest": "Jeopardy/Web/php-deserialization-v2-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Redirection",
       "category": "Web",
       "source": "Web/redirection/challenge.yml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/redirection",
-      "type": "StaticAttachment",
-      "warnings": [],
-      "manifest": "Jeopardy/Web/redirection/challenge.yaml"
+      "type": "DynamicContainer",
+      "runtimeReason": null,
+      "warnings": [
+        "portable single-service Docker runtime promoted from 'StaticAttachment' to DynamicContainer",
+        "generated per-team flag template 'RAMADAN{redirection________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
+      ],
+      "manifest": "Jeopardy/Web/redirection-rsctf-dynamic/challenge.yaml"
     }
   ]
 }

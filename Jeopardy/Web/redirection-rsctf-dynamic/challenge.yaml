@@ -1,0 +1,22 @@
+name: Redirection
+author: dimas
+description: 'Can you do open redirection on youtube?
+
+
+  Connect: http://{{.host}}:16787
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Web/redirection).'
+type: DynamicContainer
+category: Web
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flagTemplate: RAMADAN{redirection________________[TEAM_HASH]}
+container:
+  memoryLimit: 128
+  cpuCount: 1
+  exposePort: 8080
+  enableTrafficCapture: false

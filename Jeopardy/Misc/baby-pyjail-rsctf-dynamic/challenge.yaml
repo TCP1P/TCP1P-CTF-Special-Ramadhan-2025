@@ -1,0 +1,22 @@
+name: Baby Pyjail
+author: daffainfo
+description: 'baby pyjail
+
+
+  Connect: nc {{ .host }} 8011
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Misc/Baby%20Pyjail).'
+type: DynamicContainer
+category: Misc
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flagTemplate: RAMADAN{baby_pyjail_______________[TEAM_HASH]}
+container:
+  memoryLimit: 128
+  cpuCount: 1
+  exposePort: 8011
+  enableTrafficCapture: false
