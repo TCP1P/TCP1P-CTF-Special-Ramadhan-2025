@@ -3,20 +3,17 @@ author: dimas
 description: 'Challenge solana pertama di TCP1P :)
 
 
-  Connect: http://{{ .host }}:7752
-
-
   ---
 
   Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2025/tree/main/Blockchain/solantol).'
 type: DynamicContainer
 category: Blockchain
-minScoreRate: 0.25
+minScoreRate: 0.01
 difficulty: 5
-disableBloodBonus: false
+disableBloodBonus: true
 flagTemplate: RAMADAN{solantol___[TEAM_HASH]}
 container:
-  memoryLimit: 128
-  cpuCount: 1
+  memoryLimit: 2048
+  cpuCount: 2
   exposePort: 8080
   enableTrafficCapture: false
